@@ -1,0 +1,114 @@
+.col-md-2{
+    background-color: 	#F0F0F0;
+   
+}
+.icon{
+    margin-top: 50px;
+    align: center;
+}
+.list-group{
+    margin-top: 70px;
+}
+.list-item{
+    font-family: 'Cinzel Decorative', cursive;
+    font-size: 20px;
+    text-align: center;
+}
+.title1{
+    font-size: 55px;
+    font-family: 'Cinzel Decorative', cursive;
+    margin-top: 55px;
+    text-align: left;
+}
+.title2{
+    font-size: 55px;
+    font-family: 'Cinzel Decorative', cursive;
+    text-align: right;
+    margin-top: 55px;
+}
+.title3{
+    font-size: 55px;
+    font-family: 'Cinzel Decorative', cursive;
+    text-align: center;
+    margin-top: 100px;
+}
+.title4{
+    font-size: 55px;
+    font-family: 'Cinzel Decorative', cursive;
+    text-align: center;
+    margin-top:100px;
+}
+.greet1{
+    margin-top: -335px;
+    font-size: 45px;
+    font-family: 'Mate SC', serif;
+    text-align: left;
+    color:#555555;
+}
+.greet2{
+    margin-top: -340px;
+    font-size: 45px;
+    font-family: 'Mate SC', serif;
+    text-align: right;
+    color:#555555;
+
+}
+.fb{
+    margin-top: 10px;
+    margin-left: 345px;
+}
+.ig{
+    margin-top: 10px;
+}
+.email{
+    margin-top: 10px;    
+}
+.fb1{
+    margin-top: 10px;
+}
+.ig1{
+    margin-top: 10px;
+}
+.email1{
+    margin-top: 10px;
+}
+.href{
+    color: darkgray;
+}
+.skillsimg1{
+    margin-top: 250px;
+}
+.skillsimg2{
+    margin-top: 252px;
+    margin-left: 140px;
+}
+.contact{
+    font-size: 35px;
+    font-family: 'Cinzel Decorative', cursive;
+    margin-top: 50px;
+}
+.description{
+    font-size: 50px;
+    font-family: 'Mate SC', serif;
+    margin-top: 40px;
+    color: #555555;
+}
+.content1{
+    font-size: 26px;
+    font-family: 'Mate SC', serif;
+}
+.content2{
+    font-size: 18px;
+    font-family: 'Mate SC', serif;
+}
+#homeselfie1{
+    width: 70%;
+    padding: 0;
+    margin-left: 180px;
+    margin-top: 320px;
+}
+#homeselfie2{
+    width: 70%;
+    padding: 0;
+    margin-top: 95px;
+}
